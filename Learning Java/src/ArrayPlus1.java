@@ -22,7 +22,7 @@ public class ArrayPlus1 {
 		{
 			System.out.print(temp.charAt(i));
 		}
-		
+		// new 
 
 	}
 
